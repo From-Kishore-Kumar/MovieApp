@@ -1,5 +1,7 @@
 ## Available Scripts
+## `npm install`
 
+Installs the required node modules.\
 In the project directory, you can run:
 
 ### `npm run start`
